@@ -18,10 +18,23 @@ Acesse todos os projetos hospedados:
 [https://girlfromfortaleza.github.io/JuventudeDigital-Agosto-HTML-CSS/](https://girlfromfortaleza.github.io/JuventudeDigital-Agosto-HTML-CSS/)
 
 ## 🎨 Características Gerais
-- Design minimalista com tema escuro
-- Navegação entre projetos integrada
-- Layouts responsivos básicos
-- Elementos de estilo inline e externos
+- **Tema Visual Coerente**: Design escuro minimalista em todos os projetos
+- **Elementos de Navegação**: Links integrados entre páginas e retorno ao início
+- **Organização de Conteúdo**:
+  - Seções bem definidas (experiência, formação, habilidades)
+  - Uso estratégico de listas e tabelas
+- **Multimídia Integrada**:
+  - Imagens com ajuste proporcional
+  - Ícones ilustrativos em contextos específicos
+- **Componentes Interativos**:
+  - Formulários com múltiplos tipos de campos
+  - Botões funcionais (limpar/enviar)
+- **Acessibilidade Básica**:
+  - Texto legível em alto contraste
+  - Labels descritivos em formulários
+- **Adaptação Básica Responsiva**:
+  - Elementos centralizados
+  - Imagens com tamanhos relativos
 
 ## 📬 Contato
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/girlfromfortaleza)
