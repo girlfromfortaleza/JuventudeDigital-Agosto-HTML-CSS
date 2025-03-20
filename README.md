@@ -36,6 +36,16 @@ Acesse todos os projetos hospedados:
   - Elementos centralizados
   - Imagens com tamanhos relativos
 
+## 📌 Lições Aprendidas
+**Desafios Iniciais**  
+*Como iniciante em desenvolvimento web, alguns aspectos poderiam ser melhorados:*
+- Organização de arquivos:  
+  ↳ Imagens e HTMLs misturados na raiz do projeto  
+  ↳ Ausência de estrutura de pastas por tipo de mídia  
+- Práticas de otimização:  
+  ↳ Tamanho das imagens não ajustado para web  
+  ↳ Estilos inline dificultando manutenção
+  
 ## 📬 Contato
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/girlfromfortaleza)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/veil.and.brush/)
