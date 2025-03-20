@@ -1,7 +1,7 @@
 # 💻 Juventude Digital Fortaleza - Curso HTML/CSS (Agosto 2022)
 
 ## 📜 Certificado do Curso
-**Programação web com HTML/CSS **  
+**Programação web com HTML/CSS**  
 *Programa Juventude Digital - Agosto/2022*
 
 [![Certificado HTML/CSS](https://girlfromfortaleza.github.io/PortfolioArte-HTML/certtec22.PNG)](https://girlfromfortaleza.github.io/PortfolioArte-HTML/certtec22.PNG)
