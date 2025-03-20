@@ -1,4 +1,3 @@
-```markdown
 # 💻 Juventude Digital Fortaleza - Curso HTML/CSS (Agosto 2022)
 
 ## 📜 Certificado do Curso
